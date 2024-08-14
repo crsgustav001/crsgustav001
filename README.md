@@ -36,7 +36,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="agile_preferences_release_management_configuration_automation_development_devops_icon_261692.png">
+     <img height="40" src="./src/agile_preferences_release_management_configuration_automation_development_devops_icon_261692.png">
 </p>
 
 ## Contato
