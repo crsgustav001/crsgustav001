@@ -20,8 +20,8 @@
 
 ### Resumo
 
-- ????? Consultor em **Franco Consultoria**.
-- ?? Análise e desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
+- Consultor em **Franco Consultoria**.
+- Análise e desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
 
 ## Habilidades
 
