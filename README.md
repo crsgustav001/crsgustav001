@@ -26,11 +26,11 @@
 ## Habilidades
 
 <p align="center">
-    <img height="40" src="./file_type_advpl_icon_130762.png">
+    <img height="40" src="./src/file_type_advpl_icon_130762.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./file_type_sql_icon_130152.png">
+    <img height="40" src="./src/file_type_sql_icon_130152.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./oracle_original_logo_icon_146401.png">
+    <img height="40" src="./src/oracle_original_logo_icon_146401.png">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
