@@ -1,7 +1,5 @@
 ## Olá, sou o Cristian Gustavo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Resumo
-
 - Consultor em **Franco Consultoria**.
 - Análise e desenvovimento de sistemas, aplicações, Web Services, rotinas ADVPL e TLPP.
 
